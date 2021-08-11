@@ -6,6 +6,8 @@ A curated list of Open Source tools for your next Project
 
 # List
 
+<img src="download.svg" height="100px" width="100px"/>
+
 ## 💡 Analytics tool
 ### [Panelbar](https://panelbear.com/)
 ## 💡 Firebase alternative
