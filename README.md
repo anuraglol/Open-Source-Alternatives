@@ -10,3 +10,5 @@ A curated list of Open Source tools for your next Project
 ### [Panelbar](https://panelbear.com/)
 ## 💡 Firebase alternative
 ### [Supabase](https://supabase.io/)
+## 💡 Notes web-app
+### [Joplin](https://joplinapp.org/)
