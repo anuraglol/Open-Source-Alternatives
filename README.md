@@ -10,6 +10,7 @@ A curated list of Open Source tools for your next Project
 
 ## 💡 Analytics tool
 ### [Panelbar](https://panelbear.com/)
+### [Pluasibe](https://plausible.io/)
 ## 💡 Firebase alternative
 ### [Supabase](https://supabase.io/)
 ## 💡 Notes web-app
