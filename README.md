@@ -14,3 +14,5 @@ A curated list of Open Source tools for your next Project
 ### [Supabase](https://supabase.io/)
 ## 💡 Notes web-app
 ### [Joplin](https://joplinapp.org/)
+## 💡 Design System
+### [Quickr](https://quickrdesignsystem.com/)
