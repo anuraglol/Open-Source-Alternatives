@@ -17,3 +17,5 @@ A curated list of Open Source tools for your next Project
 ### [Joplin](https://joplinapp.org/)
 ## 💡 Design System
 ### [Quickr](https://quickrdesignsystem.com/)
+## 💡 Cloud
+### [Typesense](https://cloud.typesense.org/)
